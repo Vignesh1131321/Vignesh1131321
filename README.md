@@ -6,7 +6,7 @@ Interested in **Software Engineering, Distributed Systems, Systems Programming, 
 
 <p align="center">
   <a href="YOUR_GOOGLE_DRIVE_LINK">
-    <img src="https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    <img src="[https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white](https://drive.google.com/file/d/1E4ERb6KKATCT10FkLlvOdTL91PUime4b/view?usp=sharing)"/>
   </a>
 </p>
 
