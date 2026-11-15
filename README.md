@@ -5,7 +5,7 @@
 Interested in **Software Engineering, Distributed Systems, Systems Programming, and AI/ML**.
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1E4ERb6KKATCT10FkLlvOdTL91PUime4b/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1Z_oFoNa63jfnYgp8OXIPHdsr9shnDxC9/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄_View_My_Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View Resume"/>
   </a>
 </p>
@@ -58,8 +58,8 @@ Interested in **Software Engineering, Distributed Systems, Systems Programming, 
 ### 🤝 Connect with Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/vignesh-pasupuleti-5a70a72a9/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+  <a href="https://www.linkedin.com/in/vigneshpasupuleti/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   </a>
   <a href="mailto:vignesh1131321@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
