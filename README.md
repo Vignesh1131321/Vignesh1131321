@@ -4,6 +4,12 @@
 
 Interested in **Software Engineering, Distributed Systems, Systems Programming, and AI/ML**.
 
+<p align="center">
+  <a href="YOUR_GOOGLE_DRIVE_LINK">
+    <img src="https://img.shields.io/badge/Resume-View%20My%20Resume-blue?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ### 🛠️ Languages and Technologies
@@ -59,17 +65,3 @@ Interested in **Software Engineering, Distributed Systems, Systems Programming, 
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
-
